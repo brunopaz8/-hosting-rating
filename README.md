@@ -25,7 +25,7 @@ Assim como na primavera, o outono oferece um ambiente acolhedor, especialmente c
 
 ---
 
-## ⚖ **Época mediana**
+##  **Época mediana**
 
 ### 🏖️ **Verão**
 <img src="imgs/okayPoints/okayPoints.png" width="500px">
@@ -48,14 +48,14 @@ Durante o inverno, a hospedagem se torna um verdadeiro desafio devido a:
 
 ## 🛠️ **Medidas para melhorar a hospedagem**
 
-### 🌸 **Primavera & 🍂 Outono:**
+###  **Primavera & Outono:**
 - ✅ Aumentar a divulgação da hospedagem para atrair mais visitantes 📢
 - ✅ Ajustar preços para aproveitar a alta demanda 💰
 
-### 🏖️ **Verão:**
+###  **Verão:**
 - ✅ Alertar os hóspedes sobre a presença de mosquitos para garantir sua preparação ⚠️
 
-### ☃️ **Inverno:**
+###  **Inverno:**
 - ✅ Reforçar a equipe para lidar melhor com a alta demanda 👥
 - ✅ Verificar o funcionamento dos aquecedores e garantir que tudo esteja operando corretamente antes da temporada ❄️🔥
 
@@ -67,7 +67,7 @@ A época do ano tem um grande impacto na experiência da hospedagem, e a anális
 
 ---
 
-## 🧠 **Insights e Possibilidades**
+##  **Insights e Possibilidades**
 
 - **Análise Inteligente de Dados**: A IA analisou as avaliações para destacar os melhores e piores períodos do ano, proporcionando uma visão estratégica de como melhorar a hospedagem.
 - **Ajustes Personalizados**: A capacidade de personalizar o atendimento e melhorar os serviços de acordo com as épocas do ano é uma vantagem para os gestores de hospedagem.
